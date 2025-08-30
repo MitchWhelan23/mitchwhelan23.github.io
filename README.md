@@ -38,6 +38,6 @@ I am seeking opportunities beginning in 2026 where I can apply my background in 
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mitchell-whelan-2b9843245/)  
-- 📧 [Email Me](mtwhelan@comcast.net)  
+- 📧 [Email Me](mailto:mtwhelan@comcast.net)  
 
 ---
