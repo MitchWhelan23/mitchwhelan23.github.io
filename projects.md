@@ -2,20 +2,18 @@
 
 Here are a few of the projects I’ve worked on:  
 
-## Customer Churn Prediction  
-Developed machine learning models (Logistic Regression, XGBoost) to predict customer churn with an AUC of 0.87.  
-- [GitHub Repo](https://github.com/yourusername/churn-prediction)  
-- [Notebook](https://nbviewer.org/github/yourusername/churn-prediction/blob/main/notebook.ipynb)  
+## Brain Hemmorhage Image Classification/Segmentation Project
+Used various machine learning methods to classify and segment brain hemmorhage images.
+- [GitHub Repo]()  
 
 ---
 
-## Sales Forecasting  
-Built time series models (ARIMA, Prophet) to forecast revenue, improving accuracy by 15%.  
-- [GitHub Repo](https://github.com/yourusername/sales-forecasting)  
+## Modeling Economic Competition and Cooperation With Systems of Differential Equations
+Explored theoretical interactions between economic firms using modeling methods learned in class 
+- [GitHub Repo]()  
 
 ---
 
-## Data Visualization Portfolio  
-Interactive Tableau and Power BI dashboards for executive reporting and analytics.  
-- [Tableau Public](https://public.tableau.com/app/profile/yourusername)  
-- [GitHub Repo](https://github.com/yourusername/data-viz-portfolio)  
+## Predicting Fantasy Football Player Decisions Project
+Applied data cleaning and machine learning techniques to predict players' fantasy points for the upcoming season given the prior years stats
+- [GitHub Repo]()  
