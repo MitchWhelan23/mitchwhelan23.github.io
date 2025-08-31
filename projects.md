@@ -10,7 +10,7 @@ Used various machine learning methods to classify and segment brain hemorrhage i
 
 ## Modeling Economic Competition and Cooperation With Systems of Differential Equations
 Explored theoretical interactions between economic firms using modeling methods learned in class 
-- [GitHub Repo]()  
+- [GitHub Repo](https://github.com/MitchWhelan23/Economic-Modeling-Project)  
 
 ---
 
