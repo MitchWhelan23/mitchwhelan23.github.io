@@ -3,7 +3,7 @@
 Here are a few of the projects I’ve worked on:  
 
 ## Brain Hemorrhage Image Classification/Segmentation Project
-Used various machine learning methods to classify and segment brain hemmorhage images.
+Used various machine learning methods to classify and segment brain hemorrhage images.
 - [GitHub Repo]()  
 
 ---
