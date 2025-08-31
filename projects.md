@@ -20,10 +20,4 @@ Used econometric methods to identify key variables impacting the proportion of u
 
 ---
 
-## Predicting Fantasy Football Player Decisions Project
-Applied data cleaning and machine learning techniques to predict players' fantasy points for the upcoming season given the prior years stats
-- [GitHub Repo]()  
-
----
-
 ## R Project ....
