@@ -4,7 +4,7 @@ Here are a few of the projects I’ve worked on:
 
 ## Brain Hemorrhage Image Classification/Segmentation Project
 Used various machine learning methods to classify and segment brain hemorrhage images.
-- [GitHub Repo]()  
+- [GitHub Repo](https://github.com/MitchWhelan23/Brain-Scan-ML-Project)  
 
 ---
 
