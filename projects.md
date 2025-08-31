@@ -16,7 +16,7 @@ Explored theoretical interactions between economic firms using modeling methods 
 
 ## Econometric Analysis of Slum Populations
 Used econometric methods to identify key variables impacting the proportion of urban population living in slums among different countries
-- [GitHub Repo]()
+- [GitHub Repo](https://github.com/MitchWhelan23/Econometric-Analysis-Project)
 
 ---
 
