@@ -28,10 +28,9 @@ I am seeking opportunities beginning in 2026 where I can apply my background in 
 ---
 
 ## Featured Projects
-- **Customer Churn Prediction** – Built ML models (Logistic Regression, XGBoost) to predict churn with 87% accuracy  
-- **Sales Forecasting** – Time series forecasting using ARIMA and Prophet, improving accuracy by 15%  
-- **Interactive Dashboards** – Tableau/Power BI dashboards for executive reporting and decision support  
-
+- **Brain Hemmorhage Image Classification/Segmentation Project**: Used various machine learning methods to classify and segment brain hemmorhage images.
+- **Modeling Economic Competition and Cooperation With Systems of Differential Equations**: Explored theoretical interactions between economic firms using modeling methods learned in class 
+- **R Project...**
 👉 Check out the **[Projects section](./projects)** for details!
 
 ---
