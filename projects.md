@@ -20,4 +20,6 @@ Used econometric methods to identify key variables impacting the proportion of u
 
 ---
 
-## R Project ....
+## Data Cleaning and Visualization using R
+Applied data analytics and visualization techniques in RStudio to solve a realistic business problem
+- [GitHub Repo](https://github.com/MitchWhelan23/R-Project-1)
