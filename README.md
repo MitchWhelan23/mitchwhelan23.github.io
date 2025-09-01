@@ -28,9 +28,10 @@ I am seeking opportunities beginning in 2026 where I can apply my background in 
 ---
 
 ## Featured Projects
-- **Brain Hemorrhage Image Classification/Segmentation Project**: Used various machine learning methods to classify and segment brain hemorrhage images.
+- **Brain Hemorrhage Image Classification/Segmentation Project in Python**: Used various machine learning methods to classify and segment brain hemorrhage images.
 - **Modeling Economic Competition and Cooperation With Systems of Differential Equations**: Explored theoretical interactions between economic firms using modeling methods learned in class 
-- **R Project...**
+- **Data Cleaning and Visuation Project in R.**: Applied data cleaning and visualization techniques to analyze a realistic business problem
+
 👉 Check out the **[Projects section](./projects)** for details!
 
 ---
