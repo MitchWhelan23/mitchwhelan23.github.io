@@ -21,7 +21,7 @@ I am seeking opportunities beginning in 2026 where I can apply my background in 
 ## Skills & Tools
 - **Programming & Analysis:** Python (pandas, NumPy, scikit-learn), R, SQL  
 - **Modeling:** Regression, Time Series, Clustering, Classification  
-- **Visualization:** Tableau, Power BI, matplotlib, seaborn  
+- **Visualization:** tidyverse, matplotlib, seaborn  
 - **Other:** Git/GitHub, Excel 
 
 ---
