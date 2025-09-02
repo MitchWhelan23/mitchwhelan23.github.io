@@ -31,11 +31,11 @@ I am seeking opportunities beginning in 2026 where I can apply my background in 
 - **Modeling Economic Competition and Cooperation With Systems of Differential Equations**: Explored theoretical interactions between economic firms using modeling methods learned in class 
 - **Data Cleaning and Visuation Project in R.**: Applied data cleaning and visualization techniques to analyze a realistic business problem
 
-👉 Check out the **[Projects section](./projects)** for details!
+See the **[Projects section](./projects)** for more details
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mitchell-whelan-2b9843245/)  
 - 📧 [Email Me](mailto:mtwhelan@comcast.net)  
 
