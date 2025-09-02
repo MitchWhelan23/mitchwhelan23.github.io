@@ -22,8 +22,7 @@ I am seeking opportunities beginning in 2026 where I can apply my background in 
 - **Programming & Analysis:** Python (pandas, NumPy, scikit-learn), R, SQL  
 - **Modeling:** Regression, Time Series, Clustering, Classification  
 - **Visualization:** Tableau, Power BI, matplotlib, seaborn  
-- **Databases & Cloud:** PostgreSQL, Snowflake, AWS  
-- **Other:** Git/GitHub, Excel, ETL pipelines  
+- **Other:** Git/GitHub, Excel 
 
 ---
 
