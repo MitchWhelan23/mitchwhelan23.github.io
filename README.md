@@ -8,13 +8,11 @@ This site serves as my portfolio, showcasing projects, skills, and research in m
 
 ## About Me  
 
-I graduated from Northeastern University in May 2025 with a Bachelor of Science in Mathematics, along with minors in Data Science and Economics. I am currently continuing my studies at Northeastern, pursuing a Master of Science in Applied Mathematics with a concentration in Data Science, which I expect to complete in December 2025.  
+I graduated from Northeastern University in May 2025 with a Bachelor of Science in Mathematics, along with minors in Data Science and Economics, and again from Northeastern University in December 2025 with a Master of Science in Applied Mathematics with a concentration in Data Science. I am currently searching for a role where I can use my quantitative skills to solve problems in the Data Science and Modeling domains.
 
 My academic and professional interests are centered on the intersection of mathematics, data science, and applied problem-solving. I enjoy building models, analyzing data, and leveraging quantitative methods to generate meaningful insights and support informed decision-making.  
 
-Beyond academics, I have served as President of Northeastern Club Roundnet for two years, and I am also an active member of the Northeastern Math Club. In my free time, I enjoy playing chess.  
-
-I am seeking opportunities beginning in 2026 where I can apply my background in mathematics and data science to solve complex problems and contribute to data-driven decision-making.  
+Beyond academics, I have served as President of Northeastern Club Roundnet for two years, and I am also an active member of the Northeastern Math Club. In my free time, I enjoy playing chess and basketball. 
 
 ---
 
